@@ -1,3 +1,3 @@
 ClockApp
 ========
-FANTASY
+Clock
